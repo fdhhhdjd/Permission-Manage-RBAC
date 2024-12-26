@@ -9,7 +9,14 @@
 
 ## This is source code share handle RBAC
 
+# 1. RBAC
 ![RBAC](assets/RPAC.png.webp)
+
+# 2. ABAC
+![RBAC](assets/ABAC.png)
+
+# 3. Compare RBAC and ABAC
+![RBAC](assets/rbac-abac.png)
 
 ## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄😄
 
