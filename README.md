@@ -10,12 +10,15 @@
 ## This is source code share handle RBAC
 
 # 1. RBAC ( Role-Based Access Control )
-![RBAC](assets/RBAC.png.webp)
+
+![RBAC](assets/RPAC.png.webp)
 
 # 2. ABAC ( Attribute-Based Access Control )
+
 ![RBAC](assets/ABAC.png)
 
 # 3. Compare RBAC and ABAC
+
 ![RBAC](assets/rbac-abac.png)
 
 ## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄😄
