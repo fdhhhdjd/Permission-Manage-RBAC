@@ -9,10 +9,10 @@
 
 ## This is source code share handle RBAC
 
-# 1. RBAC
+# 1. RBAC ( Role-Based Access Control )
 ![RBAC](assets/RPAC.png.webp)
 
-# 2. ABAC
+# 2. ABAC ( Attribute-Based Access Control )
 ![RBAC](assets/ABAC.png)
 
 # 3. Compare RBAC and ABAC
