@@ -7,7 +7,7 @@
 <a href = "mailto:nguyentientai10@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/send-mass-email.png" alt="License"></a>
 </p>
 
-## This is source code share handle RBAC
+## This is the source code share handle RBAC and ABAC.
 
 # 1. RBAC ( Role-Based Access Control )
 
